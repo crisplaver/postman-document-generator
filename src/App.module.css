@@ -1,0 +1,57 @@
+.markdown {
+  background-color: #eeeeee;
+  padding: 12px;
+  margin-top: 6px;
+  font-size: 12px;
+}
+
+.app {
+  padding: 12px;
+}
+.item {
+  display: flex;
+  border-bottom: 0.5px solid lightgrey;
+  border-top: 0.5px solid lightgrey;
+  padding: 18px 0px;
+}
+
+.item__group {
+  padding: 18px 0px;
+}
+
+table {
+  margin-top: 6px;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 6px;
+  text-align: start;
+}
+
+.header {
+  margin-top: 12px;
+}
+
+.bodyraw {
+  margin-top: 12px;
+}
+.bodyraw__content {
+  margin-top: 6px;
+  padding: 12px;
+  background-color: #eeeeee;
+}
+
+.query {
+  margin-top: 12px;
+}
+
+.response {
+  margin-top: 12px;
+}
+
+td {
+  width: 180px;
+  border: solid 1px lightgrey;
+}

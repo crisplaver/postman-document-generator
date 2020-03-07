@@ -1,0 +1,13 @@
+.url {
+  margin-top: 12px;
+}
+
+.url__content {
+  margin-left: 6px;
+  padding: 6px;
+  background-color: #eeeeee;
+}
+
+.title {
+    font-size: 24px;
+}
